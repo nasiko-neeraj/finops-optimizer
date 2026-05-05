@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "a2a-finops-optimizer"
-version = "1.0.0"
+version = "1.0.1"
 description = "FinOps optimization agent for cloud cost analysis and recommendations"
 authors = [
     {name = "Nasiko AI Projects", email = "info@nasiko.ai"}
