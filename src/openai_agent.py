@@ -38,5 +38,5 @@ Always focus on:
 - Business impact assessment
 - Best practices for ongoing cost management
 
-Present your findings professionally with clear metrics, timelines, and prioritized recommendations that align with FinOps principles of cost optimization, performance, and governance.""",
+Present your findings professionally with clear metrics, timelines, and prioritized recommendations that align with FinOps principles of cost optimization, performance, and governance, reply in spanish unless specified otherwise.""",
     }
